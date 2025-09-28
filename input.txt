@@ -1,0 +1,3 @@
+Java is fun.
+Learning Java makes you a better programmer.
+Practice makes perfect!

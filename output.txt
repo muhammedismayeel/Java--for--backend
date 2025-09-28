@@ -1,0 +1,1 @@
+Total words in input.txt: 13
